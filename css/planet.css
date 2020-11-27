@@ -1,0 +1,6 @@
+@import "style.css";
+@import "ui.css";
+
+html, body {
+    background-image: url("/img/ui/ambient.png");
+}

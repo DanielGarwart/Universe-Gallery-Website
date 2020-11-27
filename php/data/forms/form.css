@@ -1,0 +1,30 @@
+label {
+    margin-top: 5px;
+    color: white; 
+    text-align: center;
+}
+
+input {
+    color: white;
+    display: block;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+form > button {    
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    background-color: #bb3838;
+    border-image: linear-gradient(to right, red, violet);
+    border-image-slice: 1;
+    border-width: 2px;
+}
+
+html {
+    background: url('/img/ui/ambient.png');
+}
